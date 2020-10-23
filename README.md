@@ -13,5 +13,5 @@ Comment je me présente sur les réseaux sociaux
 Qu'est-ce que je publie ?
 Recette d'une publication réussie
 Construire sa ligne éditoriale
-Quelles alternative aux réseaux sociaux pour publier ?
+Quelles alternatives aux réseaux sociaux pour publier ?
 Liens utiles
