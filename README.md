@@ -8,7 +8,7 @@ Ces guidelines ne sont certainement pas exactes, mais elles sont là aussi pour 
 
 ## Sommaire
 
-* Présentation rapide des réseaux sociaux dits "mainstream"
+* [Présentation rapide des réseaux sociaux dits "mainstream"](https://github.com/zenika-open-source/guidelines-social-medias/blob/main/Presentation-rapide-reseaux-mainstream/Presentation-rapide-reseaux-mainstream.md)
 * Comment je me présente sur les réseaux sociaux
 * Qu'est-ce que je publie ?
 * Recette d'une publication réussie
