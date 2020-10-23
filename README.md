@@ -8,10 +8,10 @@ Ces guidelines ne sont certainement pas exactes, mais elles sont là aussi pour 
 
 ## Sommaire
 
-Présentation rapide des réseaux sociaux dits "mainstream"
-Comment je me présente sur les réseaux sociaux
-Qu'est-ce que je publie ?
-Recette d'une publication réussie
-Construire sa ligne éditoriale
-Quelles alternatives aux réseaux sociaux pour publier ?
-Liens utiles
+* Présentation rapide des réseaux sociaux dits "mainstream"
+* Comment je me présente sur les réseaux sociaux
+* Qu'est-ce que je publie ?
+* Recette d'une publication réussie
+* Construire sa ligne éditoriale
+* Quelles alternatives aux réseaux sociaux pour publier ?
+* Liens utiles
