@@ -1,4 +1,4 @@
-# guidelines-social-medias
+# Guidelines social medias (en cours)
 On va commencer tout doucement (#Bibi) avec le pourquoi.
 
 ## Pourquoi mettre des guidelines réseaux sociaux sur GitHub ?
