@@ -10,7 +10,7 @@ Ces guidelines ne sont certainement pas exactes, mais elles sont là aussi pour 
 
 * [Présentation rapide des réseaux sociaux dits "mainstream"](https://github.com/zenika-open-source/guidelines-social-medias/blob/main/Presentation-rapide-reseaux-mainstream/Presentation-rapide-reseaux-mainstream.md)
 * [Comment je me présente sur les réseaux sociaux](https://github.com/zenika-open-source/guidelines-social-medias/blob/main/Comment%20se%20pr%C3%A9senter/Comment%20je%20me%20pr%C3%A9sente%20sur%20les%20r%C3%A9seaux%20sociaux.md)
-* Qu'est-ce que je publie ?
+* [Qu'est-ce que je publie ?](https://github.com/zenika-open-source/guidelines-social-medias/blob/main/Qu'est-ce%20que%20je%20publie/Qu'est-ce%20que%20je%20publie.md)
 * Recette d'une publication réussie
 * Construire sa ligne éditoriale
 * Quelles alternatives aux réseaux sociaux pour publier ?
